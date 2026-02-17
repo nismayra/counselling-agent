@@ -1,0 +1,99 @@
+Branch Code,Branch Name,Department,Department ID
+CS,Computer Science And Engineering,Computer,1
+CM,Computer Science And Engineering (Ss),Computer,1
+IM,Information Technology (Ss),Computer,1
+IT,Information Technology,Computer,1
+AT,Artificial Intelligence And Data Science (Ss),Computer,1
+GI,Geo Informatics,Civil,2
+CW,Computer Science And Business System (Ss),Computer,1
+AD,Artificial Intelligence And Data Science,Computer,1
+SE,Information Science And Engineering,Computer,1
+CB,Computer Science And Bussiness System,Computer,1
+AL,Artificial Intelligence And Machine Learning,Computer,1
+CD,Computer Science And Design,Computer,1
+CJ,M.Tech. Computer Science And Engineering (Integrated 5 Years),Computer,1
+CO,Computer And Communication Engineering,Computer,1
+CT,Computer Technology,Computer,1
+AM,Computer Science And Engineering (AI And Machine Learning),Computer,1
+CY,Cyber Security,Computer,1
+SC,Computer Science And Engineering (Cyber Security),Computer,1
+TS,Computer Science And Technology,Computer,1
+CF,Computer Science And Engineering (Data Science),Computer,1
+SB,Computer Science And Engineering (Internet Of Things And Cyber Security Including Block Chain Technology),Computer,1
+XS,Computer Science And Engineering (Tamil),Computer,1
+EE,Electrical And Electronics Engineering,Electrical,3
+EY,Electrical And Electronics Engineering (Ss),Electrical,3
+ES,Electrical And Electronics (Sandwich) (Ss),Electrical,3
+EC,Electronics And Communication Engineering,Electronics,4
+EM,Electronics And Communication Engineering (Ss),Electronics,4
+EI,Electronics And Instrumentation Engineering,Electrical,3
+RA,Robotics And Automation (Ss),Mechanical,5
+IY,Instrumentation And Control Engineering (Ss),Electrical,3
+RM,Robotics And Automation,Mechanical,5
+IC,Instrumentation And Control Engineering,Electrical,3
+ET,Electronics And Telecommunication Engineering,Electronics,4
+MD,Medical Electronics Engineering,Electronics,4
+MM,Mechanical Engineering (Manufacturing),Mechanical,5
+IB,Industrial Bio Technology,Medical,6
+BY,Bio Medical Engineering (Ss),Medical,6
+BS,Bio Technology (Ss),Medical,6
+BM,Bio Medical Engineering,Medical,6
+BT,Bio Technology,Medical,6
+AE,Aeronautical Engineering,Mechanical,5
+AO,Aerospace Engineering,Mechanical,5
+AG,Agriculture Engineering,Civil,2
+CH,Chemical Engineering,Chemical,7
+CC,Chemical And Electro Chemical Engineering (Ss),Chemical,7
+CL,Chemical Engineering (Ss),Chemical,7
+CE,Civil Engineering,Civil,2
+CN,Civil Engineering (Ss),Civil,2
+XC,Civil Engineering (Tamil Medium),Civil,2
+CZ,Civil And Structutural Engineering,Civil,2
+FY,Fashion Technology (Ss),Fashion,8
+AP,Apparel Technology (Ss),Fashion,8
+FT,Fashion Technology,Fashion,8
+FS,Food Technology (Ss),Food,9
+FD,Food Technology,Food,9
+LE,Leather Technology,Leather,10
+MR,Marine Engineering,Mechanical,5
+ME,Mechanical Engineering,Mechanical,5
+MF,Mechanical Engineering (Ss),Mechanical,5
+AU,Automobile Engineering,Mechanical,5
+MG,Mechatronics (Ss),Mechanical,5
+AS,Automobile Engineering (Ss),Mechanical,5
+MS,Mechanical Engineering (Sandwich) (Ss),Mechanical,5
+MZ,Mechatronics Engineering,Mechanical,5
+XM,Mechanical Engineering (Tamil Medium),Mechanical,5
+MC,Mechatronics,Mechanical,5
+MU,Mechanical And Automation Engineering,Mechanical,5
+MO,Mechanical And Mechatronics Engineering (Additive Manufacturing),Mechanical,5
+MH,Mechanical Engineering (Sandwich),Mechanical,5
+IS,Industrial Bio Technology (Ss),Medical,6
+PM,Pharmaceutical Technology (Ss),Medical,6
+PH,Pharmaceutical Technology,Medical,6
+PU,Pharmaceutical Engineering,Medical,6
+BC,Bio Technology And Bio Chemical Engineering,Medical,6
+MA,Material Science And Engineering (Ss),Mechanical,5
+IE,Industrial Engineering,Mechanical,5
+MN,Manufacturing Engineering,Mechanical,5
+PR,Production Engineering,Mechanical,5
+MI,Mining Engineering,Other,11
+MT,Metallurgical Engineering,Mechanical,5
+PN,Production Engineering (Ss),Mechanical,5
+MY,Metallurgical Engineering (Ss),Mechanical,5
+CR,Ceramic Technology (Ss),Other,11
+PS,Production Engineering (Sandwich) (Ss),Mechanical,5
+IN,Industrial Engineering And Management,Mechanical,5
+SF,Safety And Fire Engineering,Mechanical,5
+EN,Environmental Engineering,Civil,2
+PP,Petroleum Engineering And Technology (Ss),Petroleum,12
+PC,Petro Chemical Technology,Petroleum,12
+PE,Petroleum Engineering,Petroleum,12
+PD,Petro Chemical Engineering,Petroleum,12
+RP,Rubber And Plastic Technology,Plastic,13
+PA,Plastic Technology,Plastic,13
+PT,Printing Technology,Printing,14
+TX,Textile Technology,Textile,15
+TT,Textile Technology (Ss),Textile,15
+HT,Handloom And Textile Technology,Textile,15
+TC,Textile Chemistry,Textile,15
